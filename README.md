@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raghu Vamsi
 - 👀 I’m interested in Software Devolopment
 - 🌱 I’m currently learning B. Tech
-- 💞️ I’m looking to collaborate on goggle
+- 💞️ I’m looking to collaborate with goggle
 - 📫 How to reach me on instagram "_raghu_vamsi"
 
 <!---
